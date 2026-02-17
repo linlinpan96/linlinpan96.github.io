@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Lin Lin Pan
 
 Hi
@@ -11,4 +6,4 @@ Hi
 
 ## Writing
 
-- [Houston Marathon](./houston_marathon.html)
+- [Houston Marathon](./houston_marathon.md)
