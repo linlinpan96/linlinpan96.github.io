@@ -3,15 +3,12 @@ layout: default
 title: Home
 ---
 
-# Linlin Pan
+# Lin Lin Pan
 
-Machine learning engineer.
-Marathoner.
-Thinking about AI, endurance, and growth.
+Hi
 
 ---
 
 ## Writing
 
-- [On endurance and discipline](./endurance.html)
-- [Notes on ranking systems](./ranking.html)
+- [Houston Marathon](./houston_marathon.html)
