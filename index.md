@@ -1,6 +1,10 @@
 # Lin Lin Pan
 
-Hi! My name is Lin Lin. I love the feeling of setting goals and working towards them. I struggle with moderation. My biggest fear is being a victim to inertia. I have difficulty staying motivated when I don't know the direction I'm going. This bio is subject to change depending on my mood and season of life I'm in. - 2/19/26
+Hi! My name is Lin Lin. I love the feeling of setting goals and working towards them. I struggle with moderation. My biggest fear is being a victim to inertia. I have difficulty staying motivated when I don't know the end goal I'm working towards. This bio is subject to change depending on my mood and season of life I'm in. - 2/19/26
+
+Here, you'll find my musings on a range of topics - health, philosophy, money, love, technology, and more. These thoughts are subject to change in the face of new experiences and information.
+
+*“The mind is like an aviary with birds flying around all the time. The philosophical challenge is to land those birds and study them.” - Plato, paraphrased*
 
 ---
 
