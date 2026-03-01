@@ -1,10 +1,10 @@
-# Houston Marathon (1/11/26)
+## Houston Marathon (1/11/26)
 
 Final time: 3:34:00 (8:10/mile)
 
-This was my first marathon! I started training in August 2025, after being inspired by some college friends. I set out to finish in 3:30:00. 
+My first marathon :) I started training in August 2025, after being inspired by some college friends. I set out to finish in 3:30:00. 
 
-My fueling plan:
+Fueling plan:
 - 40g/30min
 - 100mg caffeine at hour 1 and 2
 - each station: drink 1 cup of gatorade, dump 1 cup of water over head
